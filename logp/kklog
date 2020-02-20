@@ -1,0 +1,15 @@
+kklog: 2020/02/04 11:30:42 c:/Users/medea/go/src/github.com/mdjdot/goplay/test/main.go:11: app start
+kklog: 2020/02/04 11:30:42 c:/Users/medea/go/src/github.com/mdjdot/goplay/test/main.go:13: app stopped
+kklog: 2020/02/04 11:30:50 c:/Users/medea/go/src/github.com/mdjdot/goplay/test/main.go:11: app start
+kklog: 2020/02/04 11:30:50 c:/Users/medea/go/src/github.com/mdjdot/goplay/test/main.go:13: app stopped
+kklog: 2020/02/04 11:31:13 c:/Users/medea/go/src/github.com/mdjdot/goplay/test/main.go:11: app start
+kklog: 2020/02/04 11:31:13 c:/Users/medea/go/src/github.com/mdjdot/goplay/test/main.go:13: app stopped
+kklog: 2020/02/04 11:31:13 c:/Users/medea/go/src/github.com/mdjdot/goplay/test/main.go:14: 
+kklog: 2020/02/04 11:31:52 c:/Users/medea/go/src/github.com/mdjdot/goplay/test/main.go:11: app start
+kklog: 2020/02/04 11:31:52 c:/Users/medea/go/src/github.com/mdjdot/goplay/test/main.go:13: app stopped
+
+kklog: 2020/02/04 11:32:02 c:/Users/medea/go/src/github.com/mdjdot/goplay/test/main.go:11: app start
+kklog: 2020/02/04 11:32:02 c:/Users/medea/go/src/github.com/mdjdot/goplay/test/main.go:13: app stopped
+
+kklog: 2020/02/04 11:33:19 c:/Users/medea/go/src/github.com/mdjdot/goplay/test/main.go:11: app start
+kklog: 2020/02/04 11:33:19 c:/Users/medea/go/src/github.com/mdjdot/goplay/test/main.go:12: file does not exist
